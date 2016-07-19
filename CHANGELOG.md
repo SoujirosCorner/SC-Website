@@ -11,7 +11,11 @@
 I'm working from my personal computer & minor hosting at the moment, not a dedicated vps with SSH tunnels. As such, there will be changelogs, but I will have to do them manually. However, in the future, I will be investing in a dedicated VPS.
 ---
 
-<h2>Updating Splash Page (v0.2) | Clean Look | July 18, 2016</h2>
+
+
+
+
+<h2>Splash Page Update (v0.2) | Clean Look | July 18, 2016</h2>
 ---
 <h3>Changes</h3>
 ---
